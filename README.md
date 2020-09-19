@@ -24,6 +24,6 @@
   <a href="https://github.com/Abb1x/Tux">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=Tux&theme=dracula" /> 
-  </a>
+  </a> 
 
 [discord]: https://discord.gg/WZw9zAJ
