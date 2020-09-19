@@ -18,6 +18,12 @@
 <br />
 
 
-![Abb1x's github stats](https://github-readme-stats.vercel.app/api?username=Abb1x&show_icons=true&theme=dracula)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=dracula" alt="Abb1x's github stats" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abb1x&layout=compact&theme=dracula" />
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=Tux&theme=dracula" /> 
+
 
 [discord]: https://discord.gg/WZw9zAJ
