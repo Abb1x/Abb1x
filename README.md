@@ -23,6 +23,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abb1x&layout=compact&theme=dracula" />
   <a href="https://github.com/Abb1x/Tux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=Tux&theme=dracula" /> 
-  </a> 
+  </a>
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
+</p>
 
 [discord]: https://discord.gg/WZw9zAJ
