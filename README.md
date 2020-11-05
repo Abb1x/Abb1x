@@ -24,6 +24,9 @@
   <a href="https://github.com/Abb1x/Tux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=Tux&theme=dracula" /> 
   </a>
+   <a href="https://github.com/Abb1x/emerald">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=emerald&theme=dracula" /> 
+  </a>
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
