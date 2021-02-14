@@ -17,9 +17,15 @@
 <br />
 <br />
 
+<details>
+      <summary>Statistics</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abb1x&show_icons=true&include_all_commits=true&theme=dracula" alt="Abb1x's github stats" />
+<br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abb1x&layout=compact&theme=dracula" />
+  </details>
+  <details>
+      <summary>Popular projects</summary>
   <a href="https://github.com/Abb1x/Tux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=Tux&theme=dracula" /> 
   </a>
@@ -27,6 +33,7 @@
    <a href="https://github.com/Abb1x/emerald">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abb1x&repo=emerald&theme=dracula" /> 
   </a>
+  <details>
   <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
