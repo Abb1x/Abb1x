@@ -1,6 +1,7 @@
 ### Hi there, I'm Abbix! 👋
-[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />][discord]
-<br />
+Hi! I'm Abbix, a hobbyist programmer from 🇨🇦 currently in 8th grade. I love experimenting with both low and high level programming, I'm always ready to learn!
+<br/>
+I have a [Blog](https://blog.abbix.me) and a [personal website](https://abbix.me)
 #### Languages and tools:
 <img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,4 +40,3 @@
   <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
 </p>
 
-[discord]: https://discord.gg/WZw9zAJ
