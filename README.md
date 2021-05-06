@@ -1,28 +1,37 @@
-### Hi there, I'm Abbix! 👋
+<center><img src="whoami.png" width="500"></center>
+<br/>
 Hi! I'm Abbix, a hobbyist programmer from 🇨🇦 currently in 8th grade. I love experimenting with both low and high level programming, I'm always ready to learn!
 <br/>
 I have a [Blog](https://blog.abbix.me) and a [personal website](https://abbix.me).
-#### Languages and tools:
-<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Gentoo" width="26px" src="https://www.gentoo.org/assets/img/logo/gentoo-g.png" />
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<br/>
+<br/>
+
+<center><img src="langs.png" width="500"></center>
+Here are the languages I know/am learning:
+<br>
+- C/C++
+<br>
+- Python
+<br>
+- Scheme
+<br>
+- A bit of lua 
+<br>
+- A bit of go
+<br>
+- Common Lisp
+<br> 
+- Basics of x86 assembly
 <br />
 <br />
 
 <details>
-      <summary>Statistics</summary>
+      <summary> Statistics </summary>
+<center><img src="stats.png" width="500"></center>
+
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abb1x&show_icons=true&include_all_commits=true&theme=dracula" alt="Abb1x's github stats" />
-<br />
+      <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abb1x&layout=compact&theme=dracula" />
   </details>
   <details>
